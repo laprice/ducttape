@@ -1,0 +1,6 @@
+* Convention for fabric env variables that we want to use?
+  - env.database_user
+  - env.database_pass
+  - etc
+
+* Define scope for 0.2
