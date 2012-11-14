@@ -7,7 +7,7 @@ setup(
     license='ISC',
     author='Adam Patterson',
     author_email='adam@adamrt.com',
-    description='A deployment framework based on fabric.',
+    description='Server deployment tools based on fabric.',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,
